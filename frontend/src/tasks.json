@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "taskName": "Finish studying for Atlassian",
+      "dueDate": "2024-05-14",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "taskName": "Finish doing laundry",
+      "dueDate": "2024-05-16",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "taskName": "Complete project proposal",
+      "dueDate": "2024-05-12",
+      "completed": false
+    },
+    {
+      "id": 1715265291431,
+      "taskName": "Finish ToDo List",
+      "dueDate": "2024-05-12T14:34:51.431Z",
+      "completed": false
+    },
+    {
+      "id": 1715266794875,
+      "taskName": "Need to do Edit Task",
+      "dueDate": "2024-05-10T14:59:54.875Z",
+      "completed": false
+    },
+    {
+      "id": 1715267635857,
+      "taskName": "BB",
+      "dueDate": "2024-05-10T15:13:55.857Z",
+      "completed": false
+    }
+  ]
+}
